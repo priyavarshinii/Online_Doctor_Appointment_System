@@ -46,43 +46,7 @@
 
     <!-- service section starts -->
 
-    <!-- <section class="services" id="services">
-        <h1 class="heading"> our <span>services</span></h1>
-        <div class="box-container">
-            <div class="box">
-                <i class="fas fa-notes-medical"></i>
-                <h3>medical camps</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio, tempora?</p>
-                <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span></a>
-            </div>
-
-            <div class="box">
-                <i class="fas fa-ambulance"></i>
-                <h3>24/7 ambulance</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio, tempora?</p>
-                <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span></a>
-            </div>
-
-            <div class="box">
-                <i class="fas fa-user-md"></i>
-                <h3>Online consultation</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio, tempora?</p>
-                <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span></a>
-            </div>
-
-            <div class="box">
-                <i class="fas fa-tablets"></i>
-                <h3>medicines delivery</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio, tempora?</p>
-                <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span></a>
-            </div>
-
-            <div class="box">
-                <i class="fas fa-file-medical-alt"></i>
-                <h3>Emergency bookings</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio, tempora?</p>
-                <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span></a>
-            </div>
+    <!--
 
             <div class="box">
                 <i class="fas fa-hand-holding-medical"></i>
