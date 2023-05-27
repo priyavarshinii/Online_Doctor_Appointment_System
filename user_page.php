@@ -46,16 +46,6 @@
 
     <!-- service section starts -->
 
-    <!--
-
-            <div class="box">
-                <i class="fas fa-hand-holding-medical"></i>
-                <h3>total care</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio, tempora?</p>
-                <a href="#" class="btn"> learn more <span class="fas fa-chevron-right"></span></a>
-            </div>
-        </div>
-    </section> -->
 
     <!-- service section ends -->
 
